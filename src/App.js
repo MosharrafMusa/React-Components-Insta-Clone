@@ -11,7 +11,6 @@ import SearchBar from "./components/SearchBar/SearchBarContainer";
 import PostsPage from "./components/PostsContainer/PostsPage";
 
 const App = () => {
-
   return (
     <div className="App">
       {/* Add imported components here to render them */}
